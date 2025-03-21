@@ -15,7 +15,8 @@ This topic combines machine learning, data and web development, making it a grea
 ## Installation of the Packages
 - Create a virtual Environment
 - Install Pandas 
-- Install Numpy 
+- Install Numpy
+- Seaborn
 - Install streamlit 
 - install scikit-learn
 - install joblib
@@ -28,6 +29,7 @@ This topic combines machine learning, data and web development, making it a grea
 - import joblib
 - import streamlit as st
 - import numpy as np
+- import seaboarn
 - import joblib
 ## create file app.py/train model
 - app.py
